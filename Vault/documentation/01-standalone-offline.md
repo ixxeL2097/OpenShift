@@ -405,5 +405,5 @@ You can now access Vault server at theweb URL ```https://vault-hashicorp.apps.oc
 
 [Retour menu principal](../README.md)
 
-[Suivant](02-Prerequis.md)
+[Suivant](02-update-vault-image.md)
 
