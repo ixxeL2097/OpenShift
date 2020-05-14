@@ -106,7 +106,7 @@ If for whatever reason something goes wrong and you want to rollback to the prev
 .deployment.apps/vault rolled back
 ```
 
-The command ``oc get pods``` should output the following line :
+The command ```oc get pods``` should output the following line :
 
 ```console
 [root@workstation ~ ]$ oc get pods
